@@ -1,0 +1,66 @@
+{
+    "timestamp": 1561218720,
+    "library": {
+        "types_data": {
+            "block": {
+                "categories": [
+                    "404 page",
+                    "about",
+                    "archive",
+                    "call to action",
+                    "clients",
+                    "contact",
+                    "faq",
+                    "features",
+                    "footer",
+                    "header",
+                    "hero",
+                    "portfolio",
+                    "pricing",
+                    "product archive",
+                    "services",
+                    "single page",
+                    "single post",
+                    "single product",
+                    "stats",
+                    "subscribe",
+                    "team",
+                    "testimonials"
+                ]
+            }
+        },
+        "categories": "[\"404 page\",\"about\",\"archive\",\"call to action\",\"clients\",\"contact\",\"faq\",\"features\",\"footer\",\"header\",\"hero\",\"portfolio\",\"pricing\",\"product archive\",\"services\",\"single page\",\"single post\",\"single product\",\"stats\",\"subscribe\",\"team\",\"testimonials\"]",
+        "templates": [
+            {
+                "id": "2",
+                "title": "Hero 1",
+                "thumbnail": "https://library.elementor.com/wp-content/uploads/2018/03/heroo_black_4.png",
+                "tmpl_created": "1520443695",
+                "author": "Elementor",
+                "url": "https://library.elementor.com/blocks/hero-1/",
+                "type": "block",
+                "subtype": "hero",
+                "tags": "[\"hero\"]",
+                "menu_order": "0",
+                "popularity_index": "0",
+                "trend_index": "0",
+                "has_page_settings": "0"
+            },
+            {
+                "id": "1",
+                "title": "Hero UI Kit",
+                "thumbnail": "https://library.elementor.com/wp-content/uploads/2016/09/library-ui-kit-cover.png",
+                "tmpl_created": "1475067229",
+                "author": "Elementor",
+                "url": "https://library.elementor.com/hero-ui-kit/",
+                "type": "page",
+                "subtype": "page",
+                "tags": "[]",
+                "menu_order": "0",
+                "popularity_index": "0",
+                "trend_index": "0",
+                "has_page_settings": "0"
+            }
+        ]
+    }
+}
